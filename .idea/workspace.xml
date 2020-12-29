@@ -1,6 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7aa66249-0b9f-4a67-8f88-52624141b564" name="默认的" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/DiskBench.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bench.sh" beforeDir="false" afterPath="$PROJECT_DIR$/bench.sh" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="902cd08e-8a65-4c37-b848-35aaec1b7cd7" />
+  <component name="ProjectId" id="1mJyiv2uXcXXw3Aagn7Rzexn9WB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7aa66249-0b9f-4a67-8f88-52624141b564" name="默认的" comment="" />
+      <created>1609226120512</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609226120512</updated>
+      <workItem from="1609226122273" duration="2882000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="925" y="257" key="CommitChangelistDialog2" timestamp="1609226367963">
+      <screen x="0" y="23" width="2560" height="1329" />
+    </state>
+    <state x="925" y="257" key="CommitChangelistDialog2/2560.23.1440.787/0.23.2560.1329@0.23.2560.1329" timestamp="1609226367963" />
+    <state x="1157" y="591" key="Github.ShareDialog" timestamp="1609226197560">
+      <screen x="0" y="23" width="2560" height="1329" />
+    </state>
+    <state x="1157" y="591" key="Github.ShareDialog/2560.23.1440.787/0.23.2560.1329@0.23.2560.1329" timestamp="1609226197560" />
+    <state x="1036" y="394" key="Github.UntrackedFilesDialog" timestamp="1609226210411">
+      <screen x="0" y="23" width="2560" height="1329" />
+    </state>
+    <state x="1036" y="394" key="Github.UntrackedFilesDialog/2560.23.1440.787/0.23.2560.1329@0.23.2560.1329" timestamp="1609226210411" />
   </component>
 </project>

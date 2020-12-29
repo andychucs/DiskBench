@@ -19,13 +19,13 @@ bench(){
 
         sec=$(cat $3-$4-bench-${i}K.log | grep ' lat (' | awk 'NR==1' | awk -F'(' '{print $2}' | awk -F')' '{print $1}')
         ratio=1
-        if [ $sec == 'msec']
+        if [ "$sec"x = "msec"x ]
         then
             ratio=1000
-        elif [ $sec == 'usec']
+        elif [ "$sec"x = "usec"x ]
         then
             ratio=1000000
-        elif [ $sec == 'nsec']
+        elif [ "$sec"x = "nsec"x ]
         then
             ratio=1000000000
         fi
